@@ -1,0 +1,39 @@
+.on-header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    height: 50px;
+    margin: 15px;
+  }
+  .on-header__logo {
+    margin-left: 6px;
+  }
+  .on-header__logo h1 {
+    width: 108px;
+    height: 20px;
+    line-height: 20px;
+    font-family: 'Inter-ExtraBold';
+  }
+  .on-nav {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin-right: 6px;
+  }
+  .on-nav__burger {
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 10px;
+  }
+  .on-nav__burger:after, .on-nav__burger:before, .on-nav__burger div {
+    background-color: #fff;
+    border-radius: 0;
+    content: '';
+    display: block;
+    height: 3px;
+    margin: 5px 0;
+  }
+  

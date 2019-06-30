@@ -1,0 +1,19 @@
+{
+  "name": "onemore",
+  "version": "1.0.0",
+  "description": "OnState tst",
+  "main": "index.js",
+  "scripts": {
+    "test": "show"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccene/OneMore.git"
+  },
+  "author": "Cosmin C Ene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccene/OneMore/issues"
+  },
+  "homepage": "https://github.com/ccene/OneMore#readme"
+}
